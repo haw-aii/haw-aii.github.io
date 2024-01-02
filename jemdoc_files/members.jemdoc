@@ -1,0 +1,124 @@
+# jemdoc: menu{MENU}{members.html}
+
+
+= Faculty
+
+
+
+~~~
+{}{img_left}{./images/peter_sadowski.jpg}{}{180px}{}{https://peterjsadowski.github.io/}
+== [https://peterjsadowski.github.io/ Peter Sadowski]
+=== Assoc Prof ICS
+AI & ML 4 physics, astronomy, weather, and climate
+~~~
+
+~~~
+{}{img_left}{images/igor_molybog.jpg}{}{180px}{}{https://igormolybog.github.io/}
+== [https://igormolybog.github.io/ Igor Molybog]
+=== Asst Prof ECE
+NLP & LLM 4 engineering and finance
+~~~
+
+~~~
+{}{img_left}{images/peter_washington.jpg}{}{180px}{}{https://peterwashington.github.io/}
+== [https://peterwashington.github.io/ Peter Washington]
+=== Asst Prof ICS
+ML & AI 4 healthcare
+~~~
+
+~~~
+{}{img_left}{images/prasad_santhanam.jpg}{}{180px}{}{https://ee.hawaii.edu/faculty/profile?usr=63}
+== [https://ee.hawaii.edu/faculty/profile?usr=63 Prasad Santhanam]
+=== Prof ECE
+Statistical learning
+~~~
+
+~~~
+{}{img_left}{images/jason_leigh.jpg}{}{180px}{}{https://datascience.hawaii.edu/profile/jason-leigh/}
+== [https://datascience.hawaii.edu/profile/jason-leigh/ Jason Leigh]
+=== Prof ICS
+CV 4 VR, data visualisation
+~~~
+
+~~~
+{}{img_left}{images/anthony_peruma.jpg}{}{180px}{}{https://www.peruma.me/}
+== [https://www.peruma.me/ Anthony Peruma]
+=== Asst Prof ICS
+AI 4 code generation
+~~~
+
+
+~~~
+{}{img_left}{images/nodari_sitchinava.jpg}{}{180px}{}{https://www2.hawaii.edu/~nodari/}
+== [https://www2.hawaii.edu/~nodari/ Nodari Sitchinava]
+=== Assoc Prof ICS
+GPU accelerated computing
+~~~
+
+
+~~~
+{}{img_left}{images/kyungim_baek.jpg}{}{180px}{}{https://www2.hawaii.edu/~kyungim/}
+== [https://www2.hawaii.edu/~kyungim/ Kyungim Baek]
+=== Assoc Prof ICS
+CV; ML 4 bioinformatics
+~~~
+
+~~~
+{}{img_left}{images\yuanzhang_xiao.jpeg}{}{180px}{}{https://yuanzhangxiao.github.io/}
+== [https://yuanzhangxiao.github.io/ Yuanzhang Xiao]
+=== Asst Prof HAWTI
+Reinforcement Learning
+~~~
+
+~~~
+{}{img_left}{images/susanne_still.jpg}{}{180px}{}{https://www2.hawaii.edu/~sstill/}
+== [https://www2.hawaii.edu/~sstill/ Susanne Still]
+=== Prof Physics and Astronomy
+Physics 4 ML
+~~~
+
+~~~
+{}{img_left}{images/anthony_kuh.png}{}{180px}{}{https://ee.hawaii.edu/faculty/profile?usr=19}
+== [https://ee.hawaii.edu/faculty/profile?usr=19 Anthony Kuh]
+=== Prof ECE
+Federated learning
+~~~
+
+~~~
+{}{img_left}{images/june_zhang.jpg}{}{180px}{}{https://ee.hawaii.edu/faculty/profile?usr=89}
+== [https://ee.hawaii.edu/faculty/profile?usr=89 June Zhang]
+=== Asst Prof ECE
+Knowledge graphs
+~~~
+
+~~~
+{}{img_left}{images/andres_host-madsen.jpg}{}{180px}{}{https://ee.hawaii.edu/faculty/profile?usr=17}
+== [https://ee.hawaii.edu/faculty/profile?usr=17 Anders Host-Madsen]
+=== Asst Prof ECE
+Statistical learning
+~~~
+
+~~~
+{}{img_left}{images/alice_koniges.jpg}{}{180px}{}{https://datascience.hawaii.edu/profile/alice-koniges/}
+== [https://datascience.hawaii.edu/profile/alice-koniges/ Alice Koniges]
+=== Graduate Faculty ICS
+HPC 4 ML
+~~~
+
+
+
+= Researchers
+~~~
+{}{img_left}{images/mahdi_belcaid.png}{}{180px}{}{https://datascience.hawaii.edu/profile/mahdi-belcaid-2/}
+== [https://datascience.hawaii.edu/profile/mahdi-belcaid-2/ Mahdi Belcaid]
+=== Asst Researcher, Institute of Marine Biology
+ML 4 genetics
+~~~
+
+
+~~~
+{}{img_left}{images/frances_zhu.jpg}{}{180px}{}{https://www.higp.hawaii.edu/index.php/people/frances-zhu/}
+== [https://www.higp.hawaii.edu/index.php/people/frances-zhu/ Frances Zhu]
+=== Asst Researcher HSGC
+ML 4 Planetology
+~~~

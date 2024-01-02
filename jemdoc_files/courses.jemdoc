@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{courses.html}
+= Courses
+
+= 2024
+
+== [https://igormolybog.github.io/ee417-617_spring2024.html ECE 417/617: Introduction to Optimization]
+
+The course will discuss Optimization Models in various applications, their Properties, and the Numerical Algorithms for their solution. A special emphasis is put on the interconnections of Optimization with Machine Learning, Finance, as well as Industrial Engineering, and Computer Science.
+
+= 2023
+
+== [https://peterwashington.github.io/teaching/2023-spring-ICS435 ICS 435/635: Machine Learning]
+
+This is a mathematics and programming-heavy introduction to machine learning. Topics include machine learning programming in Python, classical machine learning methods, and an introduction to deep learning.
+
+
+== [https://peterwashington.github.io/teaching/2023-fall-ICS491 ICS 491: Human-Centered Data Science]
+
+The course navigates the complexities of working with diverse human data, addressing ethical, privacy, and analysis challenges across various fields without requiring prior data science knowledge.
+
+== [https://uhm-descartes.github.io/ee342/index.html ECE 342: Probability and statistics]
+
+The course covers the fundamentals of formal probability theory such as types of random variables and conditional expectation
+
+== [https://uhm-descartes.github.io/ee345/index.html ECE 345: Linear Algebra]
+
+The course covers the fundamentals of linear algebra such as linear spaces, operators and their spectral properties
+
+= 2022
+
+== [https://peterwashington.github.io/teaching/2022-fall-ICS691D ICS 691D: Human-Centered Artificial Intelligence]
+
+This is a discussion-based course covering the latest research in human-centered artificial intelligence (HAI). Topics covered include interactive ML systems, explainable & interpretable ML, AI for healthcare, fairness & bias, privacy, crowdsourcing, HCI evaluations of AI-powered systems, and ethical frameworks applied to AI.

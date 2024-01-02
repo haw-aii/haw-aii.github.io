@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{index.html}
+
+= About HawAII
+
+Hawai'i AI Initiative is a Research Center at the University of Hawaii that stands as a pioneering hub for cutting-edge advancements in machine learning and artificial intelligence. Committed to the exploration and innovation of AI technologies, this center brings together a collaborative community of researchers, scholars, and students dedicated to pushing the boundaries of AI.
+
+\n
+\n
+
+Focusing on interdisciplinary research, this center seeks to develop, study, deploy and leverage the latest advancements in generative AI while driving practical applications in healthcare, astronomy, chemistry, economics, biology and various engineering subfields that address real-world challenges.
+With a strong emphasis on ethical AI development and its societal implications, the center fosters an environment that encourages critical inquiry and responsible innovation. 
+
+Hawai'i AI Initiative operates in a tight collaboration with the [https://datascience.hawaii.edu/ Hawai'i Data Science Institute]
+
+== Machine Learning Research
+
+Machine Learning (ML) branch of the Center studies the computational, statistical and mathematical foundations of automated algorithm design
+through experience, identifying patterns, learning from examples, and making predictions or decisions based on the learned information.
+
+The scope of the Center includes training algorithms capable of Natural Language Processing, Computer Vision, and mechanical interaction, but also performing the tasks that are
+traditionally in the realm of human-designed algorithms such as the simulation of natural and artificial processes, or
+the control and analysis of cyber-physical and digital systems.
+
+== Artificial Intelligence Research
+
+Artificial Intelligence (AI) refers to the broad field of creating machines or systems capable of performing tasks that typically require human intelligence. 
+It encompasses various techniques, approaches, and technologies to mimic human cognitive functions.
+The scope of the Center includes the study and enhancement of human-developed and learned systems with capabilities in Natural Language Processing, Computer Vision, 
+and Robotics through benchmarking and rigorous comparison to human baseline, 
+with a particular emphasis on the safety and sustainability of AI systems.
+
